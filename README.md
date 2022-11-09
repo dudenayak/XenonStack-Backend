@@ -52,7 +52,8 @@ Runs the app in the development mode.
 Backend is deployed on Heroku : Click [https://xenonstack-backend.herokuapp.com/](https://xenonstack-backend.herokuapp.com/) to view the functioning of server side in the browser 🎉
 
 ### Glimpses 📷
- **Database** 📂 ![Home Page](images/database.png) 
+ **Database **: Contacts 📂 ![Contacts](images/database.png) 
+ **Database **: Users 🧍  ![Users](images/users.png) 
 
  
 
